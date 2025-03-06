@@ -1,0 +1,7 @@
+# Ignore build folder
+build/
+
+# Ignore VSCode extensions
+.vscode/
+# Ignore devcontainer folder
+.devcontainer/
